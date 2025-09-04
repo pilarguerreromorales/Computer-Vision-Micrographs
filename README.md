@@ -10,13 +10,13 @@ The assignment consisted of two phases:
 
 The final model achieved:
 - **Validation IoU:** ~0.78  
-- **Private Score:** 0.48 (Kaggle leaderboard):contentReference[oaicite:0]{index=0}  
+- **Private Score:** 0.48 (Kaggle leaderboard) 
 
 ---
 
 ## Example Data
 
-![Cryo-EM segmentation results](Example-Masks-Prediction.png)
+![Cryo-EM segmentation results](Example-Masks-Predictions.png)
 
 ---
 
