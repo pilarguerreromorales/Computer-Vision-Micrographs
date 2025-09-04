@@ -16,7 +16,7 @@ The final model achieved:
 
 ## Example Data
 
-![Cryo-EM segmentation results](path/to/your/image.png)
+![Cryo-EM segmentation results](Example-Masks-Prediction.png)
 
 ---
 
